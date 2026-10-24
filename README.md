@@ -19,8 +19,8 @@ Responses are Likert-style survey answers by department; the workbook does not i
 
 ## Screenshots
 
-| Overall Survey Completion | Survey Responses & Role | Responses by role / text |
-|---|---|---|
+| Overall Survey Completion | Survey Responses & Role |
+|---|---|
 | ![Completion](docs/screenshots/overall-survey-completion.png) | ![Responses](docs/screenshots/survey-responses-and-role.png) | ![By role](docs/screenshots/responses-by-role-and-text.png) |
 
 ## Key findings
